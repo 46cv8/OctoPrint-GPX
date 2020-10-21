@@ -17,10 +17,10 @@ plugin_identifier = "GPX"
 plugin_package = "octoprint_%s" % plugin_identifier
 plugin_name = "OctoPrint-GPX"
 plugin_version = versioneer.get_version()
-plugin_description = "Emulates the gcode printer protocol by translating to/from x3g."
-plugin_author = "Mark Walker"
-plugin_author_email = "markwal@hotmail.com"
-plugin_url = "http://github.com/markwal/OctoPrint-GPX"
+plugin_description = "Emulates the gcode printer protocol by translating to/from x3g with support for variable fan speeds."
+plugin_author = "46cv8"
+plugin_author_email = "58377031+46cv8@users.noreply.github.com"
+plugin_url = "http://github.com/46cv8/OctoPrint-GPX"
 plugin_license = "AGPLv3"
 
 plugin_additional_data = []
